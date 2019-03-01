@@ -13,7 +13,7 @@ c)	Take a row, add it to a non-zero multiple of another row, and replace the ori
 
 Example: https://www.missouriwestern.edu/cas/wp-content/uploads/sites/217/2013/11/Elementary-Row-Operations-for-Matrices-Updated-2013.pdf
 
-3.	LU Factorization- This was the one already given from the online code we tested out. 
+3.	LU Factorization
 4.	Takes given matrix and finds corresponding eigenvalues and eigenvectors. 
 
 Example: https://www.math.hmc.edu/calculus/tutorials/eigenstuff/
